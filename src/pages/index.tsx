@@ -102,7 +102,21 @@ const Home: NextPage = () => {
                 entanto, atualmente estou com poucas básicas de verdade, sem
                 estampas. Além disso, gosto muito dessa coleção, a Black
                 Staples. As peças são confortáveis e algumas são oversized, o
-                que gosto bastante.
+                que gosto bastante. Tamanho M
+              </p>
+            </li>
+            <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
+                <a
+                  className="hover:text-gray-600"
+                  href="https://www.sprintersports.com/pt/leggings-nike-chllgr-tight-0304224"
+                >
+                  Leggings Nike - €29,99
+                </a>
+              </header>
+              <p className="px-2 py-4">
+                Leggins para corrida. Acho que seriam de grande ajuda durante o
+                inverno. Tamanho M.
               </p>
             </li>
           </ul>
