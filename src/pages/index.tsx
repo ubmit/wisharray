@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           </p>
           <ul className="flex flex-col gap-10">
             <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
-              <header className="bg-gray-200 px-2 py-4 mb-2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
                 <a
                   className="hover:text-gray-600"
                   href="https://www.worten.pt/cartoes-presente-e-gift-cards/cartoes-nintendo-switch/codigo-digital-para-fundos-da-nintendo-eshop-25-euros-7139879"
@@ -33,7 +33,7 @@ const Home: NextPage = () => {
               </p>
             </li>
             <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
-              <header className="bg-gray-200 px-2 py-4 mb-2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
                 <a
                   className="hover:text-gray-600"
                   href="https://www.worten.pt/tv-video-e-som/som-portatil/colunas-portateis/coluna-bluetooth-jbl-go-3-autonomia-ate-5-h-rosa-7291985"
@@ -47,7 +47,7 @@ const Home: NextPage = () => {
               </p>
             </li>
             <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
-              <header className="bg-gray-200 px-2 py-4 mb-2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
                 <a
                   className="hover:text-gray-600"
                   href="https://www.fnac.pt/SearchResult/ResultList.aspx?SCat=0&Search=the+ego+is+the+enemy&sft=1&sa=1#ID1282051"
@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               </p>
             </li>
             <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
-              <header className="bg-gray-200 px-2 py-4 mb-2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
                 <a
                   className="hover:text-gray-600"
                   href="https://www.nike.com/pt/en/t/dri-fit-fitness-t-shirt-VPtMtp/DX0977-010"
@@ -74,7 +74,7 @@ const Home: NextPage = () => {
               </p>
             </li>
             <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
-              <header className="bg-gray-200 px-2 py-4 mb-2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
                 <a
                   className="hover:text-gray-600"
                   href="https://www2.hm.com/pt_pt/productpage.1038173001.html"
