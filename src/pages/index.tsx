@@ -88,6 +88,23 @@ const Home: NextPage = () => {
                 nem bege ainda! Tamanho M.
               </p>
             </li>
+            <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
+                <a
+                  className="hover:text-gray-600"
+                  href="https://www2.hm.com/pt_pt/productpage.1035207008.html"
+                >
+                  T-shirt preta em algodão Oversized Fit - €14,99
+                </a>
+              </header>
+              <p className="px-2 py-4">
+                Sempre gosto de ter t-shirts básicas, principalmente pretas. No
+                entanto, atualmente estou com poucas básicas de verdade, sem
+                estampas. Além disso, gosto muito dessa coleção, a Black
+                Staples. As peças são confortáveis e algumas são oversized, o
+                que gosto bastante.
+              </p>
+            </li>
           </ul>
         </div>
       </main>
