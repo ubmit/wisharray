@@ -119,6 +119,21 @@ const Home: NextPage = () => {
                 inverno. Tamanho M.
               </p>
             </li>
+            <li className="rounded-md bg-gray-100 drop-shadow-sm lg:w-1/2">
+              <header className="mb-2 bg-gray-200 px-2 py-4">
+                <a
+                  className="hover:text-gray-600"
+                  href="https://www.apple.com/pt/shop/gift-cards"
+                >
+                  Apple Gift Card - €30,00
+                </a>
+              </header>
+              <p className="px-2 py-4">
+                Produtos, acessórios, apps, jogos, músicas, filmes, programas de
+                TV, iCloud+ e muito mais. Este cartão-oferta faz tudo. E mais
+                alguma coisa.
+              </p>
+            </li>
           </ul>
         </div>
       </main>
